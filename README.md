@@ -130,6 +130,7 @@ Das hier ist mein vollständiger Code von Jynx.
 ### Inhalt 3 | Video zu Jynx
 Hier ist ein Video wie mein Roboter sich verhält und wie er im Vergelich zu allen anderen Robotern steht.
 [![Watch the video](https://cdn.discordapp.com/attachments/872223445889450044/935839218188566528/csm_robocode_feld_b316433185.png)](https://www.youtube.com/watch?v=sm9BlHS-cPs)
+
 [Video zu Jynx](https://www.youtube.com/watch?v=sm9BlHS-cPs)
 
 
