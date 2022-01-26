@@ -1,14 +1,14 @@
 # LA1550 Robocode | Mein eigener Roboter: Jynx
 ### Aufagbenstellung
 ----
-Wir hatten in dem Lernattelier die Aufgabe mit der Applikation Robocode einen eigenen Junior Roboter zu erstellen. Mitr diesem Portfolio stelle ich die Taktik und das Verhalten meines Roboters vor.
+Wir hatten in dem Lernattelier die Aufgabe mit der Applikation Robocode einen eigenen Junior Roboter zu erstellen. Mit diesem Portfolio stelle ich die Taktik und das Verhalten meines Roboters vor.
 ### Ziele
 ---
 1. . Strategie meines Roboters meinem Leser verständlich zu machen
 
 ### Inhalt 1 | Die Strategie
 --- 
-Mein Roboter Jynx hat eine einfache aber auch teilweise auch sehr effektive Strategie. Er versucht soviel Schaden wie mögllich zu machen indem er den Fein trackt und ihn voll beschiesst. Dabei versucht er um den Gegner zu "straven" 8um auzch potenziellen Schaden zu vermeiden.
+Mein Roboter Jynx hat eine einfache aber teilweise auch sehr effektive Strategie. Er versucht so viel Schaden wie möglich zu machen indem er den Feind trackt und ihn beschiesst. Dabei versucht er um den Gegner zu "straven" um auzch potenziellen Schaden zu vermeiden.
 Ich habe hier die wichtigsten elemente meines Roboters unten aufgezählt.
 #### Jynx's Bewegungsmuster
 ```java
@@ -27,7 +27,7 @@ public void run() {
 		}
 	}
 ```
-Das Bewegungsmuster von Jynx's besitzt kein richtiges "Muster" da ich die Beweungung von Jynx mit einem Zufallsgenerator geschrieben habe. Dadurch bewegt sich der Roboter immer anders was es den Gegnern schwer macht ihn zu treffen.
+Das Bewegungsmuster von Jynx's besitzt kein richtiges "Muster" da ich die Beweungung von Jynx mit einem Zufallsgenerator geschrieben habe. Dadurch bewegt sich der Roboter immer anders, was es den Gegnern schwer macht ihn zu treffen.
 #### Jynx's Tracking
 ```java
 turnTo(rnd.nextInt(1, 360)); //Drehung  der Waffe laut Zufallsgenerierte Richtung
@@ -128,7 +128,7 @@ Das hier ist mein vollständiger Code von Jynx.
 
 
 ### Inhalt 3 | Video zu Jynx
-Hier ist ein Video wie mein erkennt wie Jynx sich verhält und wie im Vergelich zu allen anderen Robotern steht.
+Hier ist ein Video wie mein Roboter sich verhält und wie er im Vergelich zu allen anderen Robotern steht.
 [![Watch the video](https://cdn.discordapp.com/attachments/872223445889450044/935839218188566528/csm_robocode_feld_b316433185.png)](https://www.youtube.com/watch?v=sm9BlHS-cPs)
 [Video zu Jynx](https://www.youtube.com/watch?v=sm9BlHS-cPs)
 
@@ -137,15 +137,16 @@ Hier ist ein Video wie mein erkennt wie Jynx sich verhält und wie im Vergelich 
 
 #### Verifikation
 Ziel 1:
-Ich habe mein Portfolio 2 von meinen Mitschülern gezeigt und sie hatten mir Bestätigt dass mein Portfolio verständlich ist.
+Ich habe mein Portfolio 2 von meinen Mitschülern gezeigt und sie hatten mir Bestätigt, dass mein Portfolio verständlich ist.
 
 #### Reflexion
-Ich habe zu beginn einige Probleme mit Robocode gehabt doch das hat sich in mit der Zeit geändert. Ebenfalls war es für zuerst mich schwierig in eine andere Sprache zu wechseln(von C# zu Java). Alles in allem war es ein Projekt was für mich in Ordnung war, jedoch gefiel mir die App Robocode nicht ganz.
-Ich hatte teilweise mich ablenken lassen da ich den Umgang mit dem Source Editor von Robocode nich mochte. ICh habe dann als Lösung dazu einfach Visual Studio Code verwendet umd ein Syntax-Highlighting zu erhalten.
+Ich habe zu beginn einige Probleme mit Robocode gehabt doch das hat sich in mit der Zeit geändert. Ebenfalls war es für zuerst mich schwierig in eine andere Sprache zu wechseln(von C# zu Java). Alles in allem war es ein Projekt was für mich in Ordnung war, jedoch gefiel mir die Applikation Robocode nicht ganz.
+Ich hatte mich teilweise ablenken lassen, da ich den Umgang mit dem Source Editor von Robocode nicht mochte. Ich habe dann als Lösung dazu einfach Visual Studio Code verwendet um ein Syntax-Highlighting zu erhalten.
 
 ##### VBV:
-- mich schneller an den Sprachwechsel gewöhnen
-- nicht ablenken lassen auch wen mir was nicht gefällt
+- mich schneller an den Sprachwechsel gewöhnen.
+- nicht ablenken lassen auch wen mir was nicht gefällt.
+- Tips und Tricks zu den Applikationen zu holen um den Umgang zu vereinfachen.
 
 
 
