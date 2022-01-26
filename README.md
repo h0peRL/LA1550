@@ -4,7 +4,7 @@
 Wir hatten in dem Lernattelier die Aufgabe mit der Applikation Robocode einen eigenen Junior Roboter zu erstellen. Mit diesem Portfolio stelle ich die Taktik und das Verhalten meines Roboters vor.
 ### Ziele
 ---
-1. . Strategie meines Roboters meinem Leser verständlich zu machen
+1. Strategie meines Roboters meinem Leser verständlich zu machen
 
 ### Inhalt 1 | Die Strategie
 --- 
