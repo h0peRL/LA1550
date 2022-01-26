@@ -147,7 +147,7 @@ Ich hatte mich teilweise ablenken lassen, da ich den Umgang mit dem Source Edito
 ##### VBV:
 - mich schneller an den Sprachwechsel gewöhnen.
 - nicht ablenken lassen auch wen mir was nicht gefällt.
-- Tips und Tricks zu den Applikationen zu holen um den Umgang zu vereinfachen.
+- Tips und Tricks zu den Applikationen holen um den Umgang zu vereinfachen.
 
 
 
